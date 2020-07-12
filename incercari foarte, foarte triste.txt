@@ -1,0 +1,17 @@
+	//std::for_each(this->elems.begin(), this->elems.end(), [](const auto& elem) {this->empty_coin(elem.second); });
+	//auto first = this->elems.begin();
+	//auto last = this->elems.end();
+	//while (first != last)
+	//{
+	//	this->empty_coin((*first).second);
+	//	++first;
+	//}
+
+
+		//std::cout << (*it).second << " ";
+		//Coin c = Coin((*it).second.get_value(), (*it).second.get_number());
+		//this->empty_coin(c);
+
+		//
+
+		// sper ca mori.
